@@ -1,0 +1,1 @@
+double orderTotal(double unitPrice, int quantity) => unitPrice * quantity;
